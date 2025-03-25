@@ -58,7 +58,7 @@ export default function SpacesPage() {
               <TabsTrigger value="open">オープンスペース</TabsTrigger>
               <TabsTrigger value="booth">ブース席</TabsTrigger>
               <TabsTrigger value="meeting">会議室</TabsTrigger>
-              <TabsTrigger value="office">個室オフィス</TabsTrigger>
+              <TabsTrigger value="office">個室</TabsTrigger>
             </TabsList>
 
             <TabsContent value="open">
